@@ -71,7 +71,7 @@
     "´Te regalo mis páginas en blanco,\nmi sol,mi luna,\n miplaya..´";
     "Te quiero con la eternidad que concede la brevedad de un momento inolvidable.";
     "Te escribiría un libro sobre todo el amor que te tengo,\n pero los libros tienen fin\n Y mi amor por ti no";
-    "Fait avec amour",
+    "Fait avec amour";
   ];
 
   const images = [
@@ -81,7 +81,7 @@
     "8.jpeg";
     "5.jpeg";
     "6.jpeg";
-    "7.Jpeg";
+    "7.jpeg";
     "9.jpeg";
 
   ];
