@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <link rel="icon" type="image/png" href="img/1.JPG">
+   <link rel="icon" type="image/jpeg" href="1.jpeg">
   <title>unclick+</title>
 
   <style>
@@ -58,7 +58,7 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
+  <img id="vibeImage" src="1.jpeg" alt="vibe image" />
   <h1 id="phrase">FELIZ SEGUNDO MES DAVID :D</h1>
 </div>
 
@@ -75,14 +75,14 @@
   ];
 
   const images = [
-    "img/1.jpeg",
-    "img/2.jpeg",
-    "img/3.jpeg",
-    "img/4.jpeg",
-    "img/5.jpeg",
-    "img/6.jpeg",
-    "img/7.Jpeg",
-    "img/8.jpeg",
+    "1.jpeg",
+    "2.jpeg",
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg",
+    "6.jpeg",
+    "7.Jpeg",
+    "8.jpeg",
 
   ];
 
